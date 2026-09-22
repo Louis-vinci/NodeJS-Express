@@ -1,0 +1,8 @@
+# ignorer le répertoire .vscode qui contient les fichiers de VSCode
+/.vscode
+# ignorer le fichier .DS_Store qui est un fichier caché propre à macOS
+.DS_Store
+# ignorer tous les fichiers avec pour extension .key
+*.key
+
+node_modules/
